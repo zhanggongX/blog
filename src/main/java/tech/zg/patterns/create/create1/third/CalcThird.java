@@ -1,8 +1,8 @@
-package tech.zg.patterns.create.create1.Three;
+package tech.zg.patterns.create.create1.third;
 
 import java.util.Scanner;
 
-public class CalcThree {
+public class CalcThird {
 
     public static void main(String[] args) {
 
@@ -16,7 +16,7 @@ public class CalcThree {
         String secondNum = scanner.nextLine();
         // 只是例子，操作符数字不做校验了。
 
-        AbstractOperation operation = OperationFactory.createOperation(operate);
+        Operation operation = OperationFactory.createOperation(operate);
         double result = operation.getResult(Double.valueOf(firstNum), Double.valueOf(secondNum));
 
         System.out.println("计算结果为: " + result);

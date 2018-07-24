@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create1.Three;
+package tech.zg.patterns.create.create1.third;
 
 /**
 * 简单工厂方法，根据不同的操作类型，返回不同的实体类。
@@ -10,9 +10,9 @@ package tech.zg.patterns.create.create1.Three;
 */
 public class OperationFactory {
 
-    public static AbstractOperation createOperation(String operate) {
+    public static Operation createOperation(String operate) {
 
-        AbstractOperation abstractOperation = null;
+        Operation abstractOperation = null;
 
         switch (operate) {
             case "+":
