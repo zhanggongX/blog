@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create1.third;
+package tech.zg.patterns.create.create1_simple_factory.third;
 
 /**
  * 运算类的抽象类，所有运算的父类
@@ -10,5 +10,5 @@ package tech.zg.patterns.create.create1.third;
  */
 public interface Operation {
 
-    public abstract double getResult(double firstNum, double secondNum);
+    double getResult(double firstNum, double secondNum);
 }
