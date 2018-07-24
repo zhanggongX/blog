@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create2.Three;
+package tech.zg.patterns.create.create1.Three;
 
 /**
 * 简单工厂方法，根据不同的操作类型，返回不同的实体类。

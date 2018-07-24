@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create2.explain;
+package tech.zg.patterns.create.create1.explain;
 
 public class explain {
     /*

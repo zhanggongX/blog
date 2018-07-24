@@ -1,18 +1,11 @@
-package tech.zg.patterns.create.create2.second;
+package tech.zg.patterns.create.create1.Three;
 
 import java.util.Scanner;
 
-/**
- * 更改成面向对象的程序，把计算类抽象出去。
- * <p>
- *
- * @author ：zhanggong
- * @version : 1.0.0
- * @date ：2018/7/18
- */
-public class CaleSecond {
+public class CalcThree {
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("请输入第一个数字：");
@@ -23,7 +16,8 @@ public class CaleSecond {
         String secondNum = scanner.nextLine();
         // 只是例子，操作符数字不做校验了。
 
-        String result = String.valueOf(Operation.getResult(Double.valueOf(firstNum), Double.valueOf(secondNum), operate));
+        AbstractOperation operation = OperationFactory.createOperation(operate);
+        double result = operation.getResult(Double.valueOf(firstNum), Double.valueOf(secondNum));
 
         System.out.println("计算结果为: " + result);
     }

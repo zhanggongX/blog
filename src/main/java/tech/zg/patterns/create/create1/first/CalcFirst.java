@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create2.first;
+package tech.zg.patterns.create.create1.first;
 
 import java.util.Scanner;
 

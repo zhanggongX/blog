@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create2.Three;
+package tech.zg.patterns.create.create1.Three;
 
 /**
  * 运算类的抽象类，所有运算的父类
