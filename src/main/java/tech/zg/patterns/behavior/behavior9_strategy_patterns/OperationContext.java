@@ -1,8 +1,8 @@
-package tech.zg.patterns.behavior.behavior9_strategy;
+package tech.zg.patterns.behavior.behavior9_strategy_patterns;
 
 
-import tech.zg.patterns.create.create1_simple_factory.third.Operation;
-import tech.zg.patterns.create.create1_simple_factory.third.OperationFactory;
+import tech.zg.patterns.create.create1_simple_factory_patterns.third.Operation;
+import tech.zg.patterns.create.create1_simple_factory_patterns.third.OperationFactory;
 
 /**
 * 策略模式上下文，调用本类接口，本类再调用具体的算法实现。

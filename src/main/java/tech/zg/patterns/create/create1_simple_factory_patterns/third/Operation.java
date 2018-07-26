@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create1_simple_factory.third;
+package tech.zg.patterns.create.create1_simple_factory_patterns.third;
 
 /**
  * 运算类的抽象类，所有运算的父类

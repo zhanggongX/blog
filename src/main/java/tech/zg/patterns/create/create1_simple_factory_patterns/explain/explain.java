@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create1_simple_factory.explain;
+package tech.zg.patterns.create.create1_simple_factory_patterns.explain;
 
 public class explain {
     /*

@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create1_simple_factory.third;
+package tech.zg.patterns.create.create1_simple_factory_patterns.third;
 
 /**
  * 加法运算

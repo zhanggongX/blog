@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create1_simple_factory.third;
+package tech.zg.patterns.create.create1_simple_factory_patterns.third;
 
 /**
 * 简单工厂方法，根据不同的操作类型，返回不同的实体类。

@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create1_simple_factory.second;
+package tech.zg.patterns.create.create1_simple_factory_patterns.second;
 
 /**
 * 计算类
