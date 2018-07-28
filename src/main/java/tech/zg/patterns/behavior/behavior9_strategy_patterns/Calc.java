@@ -3,7 +3,7 @@ package tech.zg.patterns.behavior.behavior9_strategy_patterns;
 import java.util.Scanner;
 
 /**
-* 策略模式 测试类
+* 使用策略模式来实现计算器
 * <p>
 * @author ：zhanggong
 * @version : 1.0.0
