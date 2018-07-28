@@ -52,5 +52,5 @@
 
 ### 一些原则
 - [单一职责原则](https://github.com/zhangonga/design-patterns/blob/master/md/single_responsibility_principle.md)
-- [开放-封闭原则]()
+- [开放-封闭原则](https://github.com/zhangonga/design-patterns/blob/master/md/open_closeed_principle.md)
 - [迪米特法则]()
