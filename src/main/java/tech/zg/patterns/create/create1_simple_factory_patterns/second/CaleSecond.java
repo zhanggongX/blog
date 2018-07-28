@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class CaleSecond {
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("请输入第一个数字：");
@@ -21,7 +22,8 @@ public class CaleSecond {
         String operate = scanner.nextLine();
         System.out.println("请输入第二个数字：");
         String secondNum = scanner.nextLine();
-        // 只是例子，操作符数字不做校验了。
+
+        // 只是例子，这里操作符数字不做校验了。
 
         String result = String.valueOf(Operation.getResult(Double.valueOf(firstNum), Double.valueOf(secondNum), operate));
 

@@ -12,6 +12,15 @@ import java.util.Scanner;
  */
 public class CalcFirst {
 
+    /**
+     * 一个简单的面向个过程的计算器
+     * <p>
+     *
+     * @param args 参数说明
+     * @author: 张弓
+     * @date: 2018/7/28
+     * @version: 1.0.0
+     */
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -38,7 +47,7 @@ public class CalcFirst {
             case "/":
                 if (Double.valueOf(secondNum) != 0) {
                     result = String.valueOf(Double.valueOf(firstNum) / Double.valueOf(secondNum));
-                }else {
+                } else {
                     System.out.println("除数不能为0");
                 }
                 break;
