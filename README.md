@@ -30,7 +30,7 @@
 
 ### 2 结构型模式
 - [2.1 适配器模式]()
-- [2.2 装饰模式]()
+- [2.2 装饰模式](https://github.com/zhangonga/design-patterns/blob/master/md/structure2_decorator_patterns.md)
 - [2.3 桥接模式]()
 - [2.4 组合模式]()
 - [2.5 享元模式]()
