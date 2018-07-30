@@ -51,8 +51,8 @@
 - [3.11 迭代器模式]()
 
 ### 一些原则
-- [单一职责原则](https://github.com/zhangonga/design-patterns/blob/master/md/some_principle.md)
-- [开放-封闭原则](https://github.com/zhangonga/design-patterns/blob/master/md/open_closeed_principle.md)
-- [里氏替换原则](https://github.com/zhangonga/design-patterns/blob/master/md/liskov_substitution_pricciple.md)
-- [依赖倒转原则](https://github.com/zhangonga/design-patterns/blob/master/md/dependency_inversion_principle.md)
-- [迪米特法则]()
+- [单一职责原则](https://github.com/zhangonga/design-patterns/blob/master/md/some_principle.md#%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99single-responsibility-principle)
+- [开放-封闭原则](https://github.com/zhangonga/design-patterns/blob/master/md/some_principle.md#%E5%BC%80%E6%94%BE-%E5%B0%81%E9%97%AD%E5%8E%9F%E5%88%99open-closeed-principle)
+- [里氏替换原则](https://github.com/zhangonga/design-patterns/blob/master/md/some_principle.md#%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99liskov-substitution-pricciple)
+- [依赖倒转原则](https://github.com/zhangonga/design-patterns/blob/master/md/some_principle.md#%E4%BE%9D%E8%B5%96%E5%80%92%E8%BD%AC%E5%8E%9F%E5%88%99dependency-inversion-principle)
+- [迪米特法则](https://github.com/zhangonga/design-patterns/blob/master/md/some_principle.md#%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99law-of-demeter)
