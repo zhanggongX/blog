@@ -8,7 +8,7 @@ package tech.zg.patterns.structure.structure6_proxy_patterns;
  * @date: 2018/8/1
  * @version: 1.0.0
  */
-public class client {
+public class MainClient {
 
     public static void main(String[] args) {
 
