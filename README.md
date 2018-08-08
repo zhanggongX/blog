@@ -24,7 +24,7 @@
 - [1.1 简单工厂模式](https://github.com/zhangonga/design-patterns/blob/master/md/create1_simple_factory_patterns.md)
 - [1.2 单例模式]()
 - [1.3 工厂方法模式](https://github.com/zhangonga/design-patterns/blob/master/md/create3_factory_method_patterns.md)
-- [1.4 抽象工厂方法模式]()
+- [1.4 抽象工厂模式]()
 - [1.5 建造者模式]()
 - [1.6 原型模式]()
 
