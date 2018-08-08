@@ -26,7 +26,7 @@
 - [1.3 工厂方法模式](https://github.com/zhangonga/design-patterns/blob/master/md/create3_factory_method_patterns.md)
 - [1.4 抽象工厂模式]()
 - [1.5 建造者模式]()
-- [1.6 原型模式]()
+- [1.6 原型模式](https://github.com/zhangonga/design-patterns/blob/master/md/create6_prototype_patterns.md)
 
 ### 2 结构型模式
 - [2.1 适配器模式]()
