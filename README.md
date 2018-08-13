@@ -35,7 +35,7 @@
 - [2.4 组合模式]()
 - [2.5 享元模式]()
 - [2.6 代理模式](https://github.com/zhangonga/design-patterns/blob/master/md/structure6_proxy_patterns.md)
-- [2.7外观模式]()
+- [2.7 外观模式]()
 
 ### 3 行为型模式
 - [3.1 观察者模式]()
