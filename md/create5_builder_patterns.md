@@ -5,6 +5,8 @@
 &emsp;&emsp;那这个思想传化成程序，我=对象的使用者，建筑队=对象的建造者，设计师=构建模式的指挥者，当然如果房子比较简单，设计师（指挥者）不要也是可以的。<br>
 &emsp;&emsp;像这种，建造的过程是稳定一致的，但是细节是不同的构造对象的过程，可以使用建造者模式来提交代码质量和美感。<br>
 &emsp;&emsp;有一点需要注意，例如建造一个房子，并不是所有的细节都要加进去，例如窗户要多大的，细节要加什么花纹，这些就不要加到建造者类里了，我们使用这个模式的时候要加以权衡，通用的要加到建造者类中，也就是说加到Builder类里的建造方法必须要足够普遍。<br>
+&emsp;&emsp;总结：<br>
+&emsp;&emsp;总而言之一句话，建造者模式是当创建复杂对象的算法应该独立于该对象的组成部分以及它们的装配方式时适用的模式。
 
 - [参考代码](https://github.com/zhangonga/design-patterns/tree/master/src/main/java/tech/zg/patterns/create/create5_builder_patterns)
 - [返回首页](https://github.com/zhangonga/design-patterns#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%94%E8%AE%B0)
