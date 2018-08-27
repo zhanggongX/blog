@@ -38,7 +38,7 @@
 - [2.7 外观模式](https://github.com/zhangonga/design-patterns/blob/master/md/structure7_facade_patterns.md)
 
 ### 3 行为型模式
-- [3.1 观察者模式]()
+- [3.1 观察者模式](https://github.com/zhangonga/design-patterns/blob/master/md/behavior1_publish_subscribe_patterns.md)
 - [3.2 模板方法模式](https://github.com/zhangonga/design-patterns/blob/master/md/behavior2_template_method_patterns.md)
 - [3.3 命令模式]()
 - [3.4 状态模式]()
