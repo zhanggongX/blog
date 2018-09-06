@@ -1,4 +1,4 @@
-package tech.zg.patterns.behavior.behavior1_publis_subscribe_patterns;
+package tech.zg.patterns.behavior.behavior1_publis_subscribe_patterns.v1;
 
 /**
  * 订阅者抽象接口
