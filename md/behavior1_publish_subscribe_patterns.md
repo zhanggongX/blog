@@ -5,5 +5,10 @@
 &emsp;&emsp;观察者的模式的优点，解耦了通知者与观察者，观察者不需要知道通知者内部是怎么实现的，方便以后进行代码的修改，体现了依赖倒转原则。<br>
 &emsp;&emsp;但是普通的观察者模式是有问题的，比如多个订阅者要实现同一个方法，而实际情况中，具体的被通知者的实现是千变万化的，不能强制要求所有的被通知者实现一样的更新方法。为了优化这样的情况，可以通过委托模式来取代观察订阅者模式来实现观察者模式。<br>
 &emsp;&emsp;委托者模式：<br>
-&emsp;&emsp;
+&emsp;&emsp;所谓的委托者模式，就是定义一个对象Event，这个对象Event持有观察者的实例、要通知的方法、方法的入参。所有通知者就不用管观察者具体实现了什么，做了什么。总结起来就是利用反射调用观察者的方法而已。<br>
 
+
+- [基于发布-订阅的观察者模式详见代码](https://github.com/zhangonga/design-patterns/tree/master/src/main/java/tech/zg/patterns/behavior/behavior1_publis_subscribe_patterns/v1)
+- [基于委托的观察者模式详见代码](https://github.com/zhangonga/design-patterns/tree/master/src/main/java/tech/zg/patterns/behavior/behavior1_publis_subscribe_patterns/v2)
+
+- [返回首页](https://github.com/zhangonga/design-patterns#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%94%E8%AE%B0)
