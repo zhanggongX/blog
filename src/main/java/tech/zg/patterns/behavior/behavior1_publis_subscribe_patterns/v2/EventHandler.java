@@ -26,15 +26,13 @@ public class EventHandler {
      * 添加事件
      * <p>
      *
-     * @param object
-     * @param methodName
-     * @param args
+     * @param event
      * @author: 张弓
      * @date: 2018/9/8
      * @version: 1.0.0
      */
-    public void addEvent(Object object, String methodName, Object... args) {
-        objects.add(new Event(object, methodName, args));
+    public void addEvent(Event event) {
+        objects.add(event);
     }
 
     /**

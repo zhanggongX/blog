@@ -6,6 +6,11 @@
 &emsp;&emsp;但是普通的观察者模式是有问题的，比如多个订阅者要实现同一个方法，而实际情况中，具体的被通知者的实现是千变万化的，不能强制要求所有的被通知者实现一样的更新方法。为了优化这样的情况，可以通过委托模式来取代观察订阅者模式来实现观察者模式。<br>
 &emsp;&emsp;委托者模式：<br>
 &emsp;&emsp;所谓的委托者模式，就是定义一个对象Event，这个对象Event持有观察者的实例、要通知的方法、方法的入参。所有通知者就不用管观察者具体实现了什么，做了什么。总结起来就是利用反射调用观察者的方法而已。<br>
+&emsp;&emsp;你可以点击下方的链接去看我写的例子代码，你会发现委托模式有一下优点:<br>
+&emsp;&emsp;1。各个具体的通知者完全不知道观察者的存在，完全解耦。（当然，功劳归功于Event和EventHandler，且这两个类具有通用性）<br>
+&emsp;&emsp;2。一次通知，执行了不同类的不同方法<br>
+&emsp;&emsp;3。扩展性很高，再来一个观察者三，并在测试代码中告诉通知者一下就好，通知者完全没有变。重用性好<br>
+&emsp;&emsp;4。各个观察者之间没有任何关系，它们接收通知的方法也完全不一样。<br>
 
 
 - [基于发布-订阅的观察者模式详见代码](https://github.com/zhangonga/design-patterns/tree/master/src/main/java/tech/zg/patterns/behavior/behavior1_publis_subscribe_patterns/v1)
