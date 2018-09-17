@@ -1,6 +1,4 @@
-package tech.zg.patterns.create.create4_abstract_factory.v2;
-
-import tech.zg.patterns.create.create4_abstract_factory.v2.User;
+package tech.zg.patterns.create.create4_abstract_factory;
 
 /**
  * 具体工厂2
@@ -10,7 +8,7 @@ import tech.zg.patterns.create.create4_abstract_factory.v2.User;
  * @date: 2018/9/17
  * @version: 1.0.0
  */
-public class ConcreteFactory2 implements Factory {
+public class ConcreteFactory2 implements Factory{
 
     @Override
     public User createUser() {

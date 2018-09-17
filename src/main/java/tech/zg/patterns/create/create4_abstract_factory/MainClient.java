@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create4_abstract_factory.v1;
+package tech.zg.patterns.create.create4_abstract_factory;
 
 /**
  * 入口类

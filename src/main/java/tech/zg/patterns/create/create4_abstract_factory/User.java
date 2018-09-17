@@ -1,4 +1,4 @@
-package tech.zg.patterns.create.create4_abstract_factory.v2;
+package tech.zg.patterns.create.create4_abstract_factory;
 
 /**
  * @author 张弓

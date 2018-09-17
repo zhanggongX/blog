@@ -1,6 +1,4 @@
-package tech.zg.patterns.create.create4_abstract_factory.v2;
-
-import tech.zg.patterns.create.create4_abstract_factory.v2.User;
+package tech.zg.patterns.create.create4_abstract_factory;
 
 /**
  * 具体用户1

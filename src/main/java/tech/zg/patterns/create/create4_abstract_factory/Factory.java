@@ -1,6 +1,4 @@
-package tech.zg.patterns.create.create4_abstract_factory.v1;
-
-import org.springframework.boot.autoconfigure.security.SecurityProperties;
+package tech.zg.patterns.create.create4_abstract_factory;
 
 /**
  * 抽象工厂
