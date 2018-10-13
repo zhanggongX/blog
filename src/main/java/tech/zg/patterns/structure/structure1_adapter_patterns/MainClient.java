@@ -1,7 +1,7 @@
 package tech.zg.patterns.structure.structure1_adapter_patterns;
 
 /**
- * 配置器模式
+ * 适配器模式
  * <p>
  *
  * @author: 张弓
