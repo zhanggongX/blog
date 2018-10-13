@@ -9,4 +9,9 @@ package tech.zg.patterns.structure.structure1_adapter_patterns;
  * @version: 1.0.0
  */
 public class MainClient {
+
+    public static void main(String[] args) {
+        Adapter adapter = new ConcreteAdapter();
+        adapter.request();
+    }
 }
