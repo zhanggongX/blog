@@ -4,5 +4,5 @@
 &emsp;&emsp;简单点说，就是我们有一个主类，要进行一系列操作，现在定义一个状态父类，并定义一系列状态子类，并在主类中通过父状态类引用某个具体的状态，在主类某个方法中，把主类对象传给某个状态子类，在这个个状态子类操作主类，改变主类的状态，并根据当前主类的状态来决定下一个状态。<br>
 &emsp;&emsp;那么什么时候时候用状态模式呢？当一个对象的行为取决于它的状态，并且它必须在运行时候根据状态改变它的行为时，就可以考虑使用状态模式了。而且如果我们要增加一个状态，只需要新增一个状态子类，并更改某个类的判断逻辑即可。<br>
 
-- [参考代码](https://github.com/zhangonga/design-patterns/tree/master/src/main/java/tech/zg/patterns/structure/structure4_state_patterns)<br>
+- [参考代码](https://github.com/zhangonga/design-patterns/tree/master/src/main/java/tech/zg/patterns/behavior/behavior4_state_patterns)<br>
 - [返回首页](https://github.com/zhangonga/design-patterns#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%94%E8%AE%B0)
