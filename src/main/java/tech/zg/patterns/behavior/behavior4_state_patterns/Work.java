@@ -61,6 +61,7 @@ public class Work {
      * @version: 1.0.0
      */
     public void writeProgram() {
+        // 调用不同的状态的类的写代码方法，不同的状态的逻辑，在不同的状态类中完成。
         currentState.writeProgram(this);
     }
 }

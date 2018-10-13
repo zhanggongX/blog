@@ -11,7 +11,7 @@ package tech.zg.patterns.behavior.behavior4_state_patterns;
 public class NoonState implements State {
 
     /**
-     * 写代码
+     * 写代码，完成本状态下的主类逻辑，并决定下一个状态是什么，并设置给主类。
      * <p>
      *
      * @param work
