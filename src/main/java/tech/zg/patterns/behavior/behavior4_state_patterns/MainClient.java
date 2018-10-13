@@ -1,4 +1,4 @@
-package tech.zg.patterns.structure.structure4_state_patterns;
+package tech.zg.patterns.behavior.behavior4_state_patterns;
 
 /**
  * @author 张弓
