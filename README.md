@@ -47,7 +47,7 @@
 - [3.7 中介模式]()
 - [3.8 访问者模式]()
 - [3.9 策略模式](https://github.com/zhangonga/design-patterns/blob/master/md/behavior9_strategy_patterns.md)
-- [3.10 备忘录模式]()
+- [3.10 备忘录模式](https://github.com/zhangonga/design-patterns/blob/master/md/behavior10_memento_patterns.md)
 - [3.11 迭代器模式]()
 
 ### 一些原则
