@@ -32,7 +32,6 @@ public class HrDepartment extends Company {
      */
     @Override
     public void add(Company component) {
-        childrenCompany.add(component);
     }
 
     /**
@@ -46,7 +45,6 @@ public class HrDepartment extends Company {
      */
     @Override
     public void remove(Company component) {
-        childrenCompany.remove(component);
     }
 
     /**
