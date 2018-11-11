@@ -6,6 +6,6 @@
 &emsp;&emsp;java的sdk里有各种非常好的迭代器代码，但这里还是简单的实现一个。不重复造轮子是不会深刻的知道轮子是怎么造出来的。
 
 
-- [详见代码 ](https://github.com/zhangonga/design-patterns/tree/master/src/main/java/tech/zg/patterns/structure/behavior11_iterator_patterns)
+- [详见代码 ](https://github.com/zhangonga/design-patterns/tree/master/src/main/java/tech/zg/patterns/behavior/behavior11_iterator_patterns)
 
 - [返回首页](https://github.com/zhangonga/design-patterns#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%94%E8%AE%B0)
