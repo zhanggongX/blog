@@ -31,7 +31,7 @@
 ### 2 结构型模式
 - [2.1 适配器模式](https://github.com/zhangonga/design-patterns/blob/master/md/structure1_adapter_patterns.md)
 - [2.2 装饰模式](https://github.com/zhangonga/design-patterns/blob/master/md/structure2_decorator_patterns.md)
-- [2.3 桥接模式]()
+- [2.3 桥接模式](https://github.com/zhangonga/design-patterns/blob/master/md/structure3_bridge_patterns.md)
 - [2.4 组合模式](https://github.com/zhangonga/design-patterns/blob/master/md/structure4_composite_patterns.md)
 - [2.5 享元模式]()
 - [2.6 代理模式](https://github.com/zhangonga/design-patterns/blob/master/md/structure6_proxy_patterns.md)
